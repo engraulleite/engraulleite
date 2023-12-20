@@ -5,7 +5,7 @@
   Summarily, my curiosity extends to the domains of Machine Learning, Artificial Intelligence, Data Engineering, and new technology. I am always enthusiastic to embrace innovations.
 
 ### Tech Skills:
-- Cloud Computing (AWS, Azure, GCP)
+- Cloud Computing (AWS, Azure, GCP) - Big Data
 
 ### How to reach me:
 <div>
