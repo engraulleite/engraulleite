@@ -1,3 +1,4 @@
+### Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 ### About:
 Data engineer with a background in Engineering and post-graduations in Project Management and Building Information Modeling (BIM).
 
