@@ -4,5 +4,9 @@
   Data engineering plays a vital role in the information age and for this reason, as a data engineer, I aim to empower organizations to unlock the potential of data, foster innovations, and make strategic and informed decisions.
   Summarily, my curiosity extends to the domains of Machine Learning, Artificial Intelligence, Data Engineering, and new technology. I am always enthusiastic to embrace innovations.
 
-
+### How to reach me
+<div>
+   <a href="https://www.linkedin.com/in/gabrielcdev/" target="_blank"><img height='30' src='https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue' alt='Linkedin'></a>
+   <a href="https://www.instagram.com/krd.gabriel/" target="_blank"><img height='30' src='https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=a10d37' alt='Instagram'></a>
+</div>
 <!--
