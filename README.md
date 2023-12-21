@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 ### About:
-Data engineer with a background in Engineering and post-graduations in Project Management and Building Information Modeling (BIM).
+Data engineer with a background in Engineering and post-graduations in MBA Project Management and Building Information Modeling (BIM).
 
 At present, I work as a data engineer, developing ETL and ELT pipelines using appropriate technologies for each business case. I try to take advantage of Cloud Computing and On-Premises technologies to make data available quickly, reliably, and cost-effectively for decision-making and predictive modeling.
   
